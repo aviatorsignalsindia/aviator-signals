@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building...' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1" // Если вы используете Express
+  }
+}
